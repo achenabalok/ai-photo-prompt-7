@@ -1,0 +1,27 @@
+{
+  "global_style": {
+    "quality": "ultra-high detail, photorealistic editorial fashion",
+    "aesthetic": "bold seductive, classy aggressive feminine dominance",
+    "rendering": "cinematic skin, natural proportions, 85mm lens clarity",
+    "lighting": "warm directional sunlight, soft dust glow, rich contrast"
+  },
+  "subject": {
+    "identity": "adult female, mid-20s",
+    "features": "symmetrical structure, defined cheekbones, blonde wavy hair",
+    "expression": "magnetic eye contact, composed confidence",
+    "clothing": {
+      "top": "white cropped cotton camisole, thin straps",
+      "bottom": "fitted denim shorts, frayed hem edges"
+    }
+  },
+  "scene_setup": {
+    "location": "sunlit bedroom, wooden bed frame, neutral linens",
+    "pose": "standing, one leg elevated resting on the bed frame/mattress",
+    "camera_angle": "medium shot, low angle, editorial perspective"
+  },
+  "technical_parameters": {
+    "depth_of_field": "shallow",
+    "texture_fidelity": "sharp",
+    "stylization": "zero illustration or cartoon traits"
+  }
+}
